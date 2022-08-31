@@ -223,3 +223,16 @@ ls
 cd Desktop/DI-Bootcamp/week1/
 ls
 cd Desktop/DI-Bootcamp/
+pwd
+cd Desktop/DI-Bootcamp/week2/day3/exerciceXP
+cd Desktop/DI-Bootcamp/week2/day3/XP/
+git add .
+ls
+git commit -am" exercice XP"
+ls
+git commit -m"exerciceXP"
+git add .
+ls
+git commit -m
+git commit -am" les exercices XP"
+git push
