@@ -236,3 +236,5 @@ ls
 git commit -m
 git commit -am" les exercices XP"
 git push
+pwd
+cd Desktop/DI-Bootcamp/week2/day3/XP/
