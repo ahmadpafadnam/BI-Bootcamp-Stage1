@@ -238,3 +238,10 @@ git commit -am" les exercices XP"
 git push
 pwd
 cd Desktop/DI-Bootcamp/week2/day3/XP/
+cd Desktop/DI-Bootcamp/week2/day3/XP/
+git add .
+git commit -am"exerciceXP"
+git commit -m"exerciceXP"
+ls
+git add .
+ls
